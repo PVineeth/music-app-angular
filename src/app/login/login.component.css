@@ -1,0 +1,29 @@
+.bg-color-loginbox {
+    background-color: #424b54;
+}
+
+.card-header {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 2rem;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color: white;
+  }

@@ -1,0 +1,14 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    background-image: linear-gradient(to right, rgb(33, 37, 41), rgb(108, 117, 125));
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    /* padding: 10px; */
+}
+
+.song-name {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
